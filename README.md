@@ -9,3 +9,6 @@
 戳 [DoubanMovieTOP250_multi.py](https://github.com/oldwhale/DoubanMovieTOP250/blob/master/DoubanMovieTOP250_multi.py)
 ## 生成文件
 戳 [DoubanMovieTOP250.csv](https://github.com/oldwhale/DoubanMovieTOP250/blob/master/DoubanMovieTOP250.csv)
+ 
+## 详细说明放在我的个人博客上
+[Jay Blog](https://blog.oldwhale.cn/?p=173)
